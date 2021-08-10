@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">Hi there 👋, I'm Nishanth Reddy</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Nishanth+Reddy&center=true&size=30">
+  </a>
+</h1>
+
+
 <h3 align="center">Backend Software Developer at Nutanix</h3>
 
 
