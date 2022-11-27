@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ***I like exploring new Technologies. I like Data Structures and Algorithms and hence Competitive Programming.***
 
-- 🔭  I’m currently working on **Cloud Security**
-
 - 🎓 I completed my Bachelors from IIT Guwahati
 
 - ⚡ Fun fact **I use VIM**
